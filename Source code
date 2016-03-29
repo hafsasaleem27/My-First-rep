@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My First HTML Page</title>
+  </head>
+  
+  <body>
+    <main>
+    
+      <article>
+        <heading>
+          <h1>First news</h1>
+          <p>Pakistan Day</p>
+        </heading>
+      </article>
+      
+      <aside>
+        <h2>Aside Heading</h2>
+        <p>My Aside Paragraph</p>
+      </aside>
+      
+      <footer>
+        <p>Copyrights 2016 @abc company.com</p>
+      </footer>
+      
+    </main>
+  </body>
+</html>
